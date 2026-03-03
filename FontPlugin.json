@@ -1,12 +1,15 @@
 {
+  "spec": 1,
   "name": "Fighting Spirit 2 Bold",
   "author": "Pressgang Studios",
   "version": "1.00",
-  "format": "otf",
-  "url": "https://raw.githubusercontent.com/FenzerPlayerPressure/Mdk-font-plugin-for-discord/main/Fighting%20Spirit%202%20bold.otf",
-  "config": {
-    "fontFamily": "Fighting Spirit turbo Bold Italic",
-    "fontWeight": "bold",
-    "fontStyle": "italic"
-  }
+  "source": "https://raw.githubusercontent.com/FenzerPlayerPressure/Mdk-font-plugin-for-discord/main/Fighting%20Spirit%202%20bold.otf",
+  "fonts": [
+    {
+      "name": "Fighting Spirit 2 Bold",
+      "font": "Fighting Spirit turbo Bold Italic",
+      "style": "bold-italic"
+    }
+  ]
 }
+
